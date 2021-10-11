@@ -1,0 +1,46 @@
+---
+title: "Project Proposal"
+author: "Chi-Yun, Liu"
+date: "`r Sys.Date()`"
+output: pdf_document
+fontsize: 12pt
+geometry: margin=1in
+header-includes:
+    - \usepackage{setspace}\doublespacing
+---
+
+
+# Introduction
+
+Provide as much information about the research problem and the data. Try to answer the following questions. 
+
+Why is the research problem of significant interest? 
+
+What are the main research questions? What are the challenges? 
+
+You should include a brief literature review. For the lit review, you should find peer-review articles related to the topic. Use a publication search engine such as Google Scholar.
+
+# Initial Hypotheses
+
+Before you look at the data, provide a list of detailed hypotheses. E.g. you might believe that a particular set of features can be used for the detection of fraud. Use scientific arguments to support your belief.
+
+# Data-drivin Hypotheses 
+
+What new hypotheses are you planning to develop as you explore the data? 
+
+Provide some description of things that you find interesting when you were looking at the problem and the data.
+
+# Proposed work and discussion
+
+Describe what you are proposing to do and provide a brief discussion of how your results may be placed in the context of the literature.
+
+
+
+# References
+
+A list of references cited in your report. Use a standard format for references (such as APA or MLA).
+
+
+
+
+
